@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://bigota.d.miui.com/20.4.27/miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
-  ROM_NAME: miui_MIMIX2_20.4.27_4fbd9fa9c8_9.0.zip
+  ROM_NAME: Generic
   TZ: Asia/Shanghai
 
 jobs:
